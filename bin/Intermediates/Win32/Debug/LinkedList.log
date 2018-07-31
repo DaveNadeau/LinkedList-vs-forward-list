@@ -1,0 +1,3 @@
+﻿  singleLinkedList.cpp
+c:\users\neo31\dropbox\devprojects\cplusplus\linkedlist\linkedlist\src\h\timer.h(21): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+  LinkedList.vcxproj -> C:\Users\neo31\Dropbox\DevProjects\Cplusplus\LinkedList\bin\Win32\Debug\LinkedList.exe
