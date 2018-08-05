@@ -16,8 +16,9 @@
 		}
 }
 
+	// printing for test verification
 	void List::print() {
-		Node *temp = new Node;
+		Node *temp = new Node; 
 		temp = head;
 		while (temp != nullptr)
 		{
